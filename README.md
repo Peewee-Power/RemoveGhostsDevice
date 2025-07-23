@@ -51,6 +51,5 @@ MIT License — do whatever you want with it. 😊
 
 If you find this script helpful, consider supporting me on Ko-fi:
 
-[![Buy me a coffee](https://github.com/user-attachments/assets/1eb46c2a-b272-43c0-a3c1-a056674b5f31)](https://ko-fi.com/Q5Q31II1W0)
-
+[![Buy me a coffee](https://github.com/user-attachments/assets/aa8c56ea-b022-44d2-bbc6-5cd8fc4a4499)](https://ko-fi.com/Q5Q31II1W0)
 
